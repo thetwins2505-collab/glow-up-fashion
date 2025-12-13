@@ -69,4 +69,3 @@ export default function App() {
         </h2>
 
         <div className="grid md:grid-cols-3 gap-6 max-w-5xl mx-
-
